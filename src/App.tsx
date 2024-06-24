@@ -1,3 +1,7 @@
 export function App() {
-  return <h1>lab-learn-react</h1>;
+  return (
+    <>
+      <button className="square">X</button>
+    </>
+  );
 }
